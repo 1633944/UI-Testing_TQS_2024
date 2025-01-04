@@ -7,7 +7,8 @@
 
 ## Pàgina web
 
-demo.prestashop.com
+[demo.prestashop.com
+](https://demo.prestashop.com/)
 
 ## Descripció
 
