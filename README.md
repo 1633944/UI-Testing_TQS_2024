@@ -3,7 +3,11 @@
 ## Integrants de l'equip
 
 - **Eric Chaves Sánchez - 1633944**
-- **Pau Leyva Garcia**
+- **Pau Leyva Garcia - 1636526**
+
+## Pàgina web
+
+demo.prestashop.com
 
 ## Descripció
 
