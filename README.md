@@ -1,8 +1,8 @@
-# Pràctica 2: UI Testing - Test i Qualitat (Curs 2024-2025)
+# Pràctica 2: UI Testing - Test i Qualitat del Software (Curs 2024-2025)
 
 ## Integrants de l'equip
 
-- **Eric Chaves Sánchez**
+- **Eric Chaves Sánchez - 1633944**
 - **Pau Leyva Garcia**
 
 ## Descripció
