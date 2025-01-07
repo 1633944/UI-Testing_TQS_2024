@@ -1,15 +1,15 @@
 Feature: Login
 
-  Scenario: Login true
-    Given I am on the login page
-    When I enter the username "1636526@uab.cat"
-    And I enter the password "A123456B123456C"
-    And I log in
-    Then I should be logged in
+  Scenario: Login correct
+    Given the user is on the login page
+    When the user enter the username "1636526@uab.cat"
+    And the user enter the password "A123456B123456C"
+    And the user log in
+    Then the user should be logged in
 
-  Scenario: Login not correct
-    Given I am on the login page
-    When I enter the username "1636526@uab.cat"
-    And I enter the password "incorrecte"
-    And I log in
-    Then I should see the login error message "Authentication failed."
+  Scenario: Login with incorrect password
+    Given the user is on the login page
+    When the user enter the username "1636526@uab.cat"
+    And the user enter the password "incorrecte"
+    And the user log in
+    Then the user should see the login error message "Authentication failed."
